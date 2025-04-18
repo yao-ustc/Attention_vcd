@@ -1,4 +1,4 @@
-```markdown
+
 # Attention VDC
 
 Attention VDC modifies the model's understanding of images at the attention level, generating positive and negative sample images at the attention layer. This enables the use of contrastive decoding or mDPO methods to reduce hallucinations.
