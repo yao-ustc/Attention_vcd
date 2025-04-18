@@ -63,6 +63,9 @@
 
 1. 环境配置
 ```sh
+conda create -n att_vcd python=3.10 -y
+conda activate att_vcd
+pip install --upgrade pip 
 pip install -e .
 ```
 2. 更改环境中的transformers
@@ -112,9 +115,8 @@ filetree
 
 ### 使用到的框架
 
-- [xxxxxxx](https://getbootstrap.com)
-- [xxxxxxx](https://jquery.com)
-- [xxxxxxx](https://laravel.com)
+- [LLaVA](https://getbootstrap.com)
+- [VCD](https://jquery.com)
 
 ### 贡献者
 
@@ -139,9 +141,9 @@ filetree
 
 ### 作者
 
-xxx@xxxx
+zyyao888@ustc.edu
 
-知乎:xxxx  &ensp; qq:xxxxxx    
+qq:2744179563  
 
  *您也可以在贡献者名单中参看所有参与该项目的开发者。*
 
